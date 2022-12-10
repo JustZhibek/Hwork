@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68702615-56cd-418d-a16f-e99a58763e94" name="Changes" comment="" />
+    <list default="true" id="68702615-56cd-418d-a16f-e99a58763e94" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.Hero (1)">
-    <configuration name="Hero (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Hero (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +148,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Hero (1)" />
         <item itemvalue="Python.lesson 2" />
         <item itemvalue="Python.Hero" />
         <item itemvalue="Python.lesson1" />
@@ -189,7 +190,7 @@
       <workItem from="1670659557756" duration="13000" />
       <workItem from="1670659607556" duration="12556000" />
       <workItem from="1670682498465" duration="14000" />
-      <workItem from="1670687687439" duration="1764000" />
+      <workItem from="1670687687439" duration="2730000" />
     </task>
     <servers />
   </component>
