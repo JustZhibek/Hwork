@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68702615-56cd-418d-a16f-e99a58763e94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/SuperHero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="68702615-56cd-418d-a16f-e99a58763e94" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +212,7 @@
       <workItem from="1670659607556" duration="12556000" />
       <workItem from="1670682498465" duration="14000" />
       <workItem from="1670687687439" duration="2973000" />
-      <workItem from="1670746102998" duration="767000" />
+      <workItem from="1670746102998" duration="1168000" />
     </task>
     <servers />
   </component>
