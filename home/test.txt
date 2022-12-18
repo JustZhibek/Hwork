@@ -1,0 +1,10 @@
+git init
+git remote add origin (link)
+git add . (all file)
+git add (just one file)
+git commit
+git push origin master
+git branch
+git checkout
+git merge
+
