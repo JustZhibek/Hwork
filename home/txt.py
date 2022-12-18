@@ -8,4 +8,3 @@ git push origin  listik
 git branch
 git push
 git remote
-
