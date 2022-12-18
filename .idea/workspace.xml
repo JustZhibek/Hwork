@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68702615-56cd-418d-a16f-e99a58763e94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/home/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/lesson 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/lesson 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/calc hw 3 changed.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/HomeWork 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/lesson 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/lesson 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/HomeWork 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/HomeWork 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/home/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +41,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ics&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "diff.base"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\pythonProject\HomeWork" />
@@ -251,7 +250,8 @@
       <workItem from="1671189145703" duration="37000" />
       <workItem from="1671189332877" duration="637000" />
       <workItem from="1671290259583" duration="10763000" />
-      <workItem from="1671342794408" duration="2972000" />
+      <workItem from="1671342794408" duration="4540000" />
+      <workItem from="1671359981684" duration="1957000" />
     </task>
     <servers />
   </component>
@@ -308,7 +308,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$lesson_3.coverage" NAME="lesson 3 Coverage Results" MODIFIED="1670844021295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWork" />
     <SUITE FILE_PATH="coverage/pythonProject$Zhibek_25_3_hw7.coverage" NAME="Zhibek_25-3_hw7 Coverage Results" MODIFIED="1669300569576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/homeWork_3_py$homeWork_3.coverage" NAME="homeWork 3 Coverage Results" MODIFIED="1671029084791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/home" />
-    <SUITE FILE_PATH="coverage/homeWork_3_py$HomeWork_4.coverage" NAME="HomeWork 4 Coverage Results" MODIFIED="1671347935100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/home" />
+    <SUITE FILE_PATH="coverage/homeWork_3_py$HomeWork_4.coverage" NAME="HomeWork 4 Coverage Results" MODIFIED="1671362178890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/home" />
     <SUITE FILE_PATH="coverage/pythonProject$lesson1.coverage" NAME="lesson1 Coverage Results" MODIFIED="1670343282243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$lesson_5__1_.coverage" NAME="lesson_5 (1) Coverage Results" MODIFIED="1668699228803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$zhibek_25_3_hw_8.coverage" NAME="zhibek_25-3_hw 8 Coverage Results" MODIFIED="1669721546047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
