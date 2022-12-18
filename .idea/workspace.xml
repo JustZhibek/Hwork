@@ -4,7 +4,6 @@
     <list default="true" id="68702615-56cd-418d-a16f-e99a58763e94" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/lesson 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/lesson 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/HomeWork 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/HomeWork 4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/home/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,19 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "diff.base"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;diff.base&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\pythonProject\HomeWork" />
@@ -251,7 +250,8 @@
       <workItem from="1671189332877" duration="637000" />
       <workItem from="1671290259583" duration="10763000" />
       <workItem from="1671342794408" duration="4540000" />
-      <workItem from="1671359981684" duration="1957000" />
+      <workItem from="1671359981684" duration="2525000" />
+      <workItem from="1671364269923" duration="330000" />
     </task>
     <servers />
   </component>
