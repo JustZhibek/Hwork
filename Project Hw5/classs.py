@@ -3,7 +3,6 @@ class Hero:
         self.name = name
         self.ability = ability
 
-
 class Hero_super(Hero):
     def __init__(self, name, ability):
       Hero.__init__(self, name, ability)
